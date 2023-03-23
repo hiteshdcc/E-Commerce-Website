@@ -1,0 +1,1 @@
+Within the user account dashboard, users have the ability to manage their account information, view order details, access previous order records, and download product purchase invoices in PDF format as needed.

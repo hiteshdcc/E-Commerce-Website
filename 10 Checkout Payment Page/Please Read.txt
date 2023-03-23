@@ -1,0 +1,1 @@
+After successfully placing an order, users will receive an order confirmation and product purchase invoice at their registered email address. They will also receive updates for every action taken on their order.
